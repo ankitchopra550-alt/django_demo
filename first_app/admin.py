@@ -1,4 +1,4 @@
 from django.contrib import admin
-print("test changes check")
+print("changes check")
 
 # Register your models here.
